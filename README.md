@@ -1,2 +1,2 @@
 # Hackerrank
-This repository contains variious solutions from hackerrank
+This repository contains various solutions from hackerrank
